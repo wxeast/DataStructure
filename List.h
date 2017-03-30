@@ -1,6 +1,6 @@
 #pragma  once 
 #include<assert.h>
-#include"stl_allocator.h"//自己实现的空间配置器 
+#include"stl_allocator.h"//自己实现的空间配置器     git地址   https://github.com/wxeast/STL
 //实现的带有头结点的双向链表
 //链表的节点
 template<class T>
